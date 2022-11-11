@@ -1,3 +1,5 @@
 Hello Roman!
     Its my first attempt to experiment with diff functionality.
 An here is the second commit.
+Hello Roman again!
+Here is the third commit and lets see how it works :-)
