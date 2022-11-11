@@ -1,0 +1,2 @@
+Hello Roman!
+Its my first attempt to experiment with diff functionality.
